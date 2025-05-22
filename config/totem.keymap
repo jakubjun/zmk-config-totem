@@ -172,7 +172,7 @@
               &kp Q         &kp D             &kp R                &kp W          &kp B        &kp J        &kp F          &kp U                &kp P              &kp SEMICOLON
               &hm_l LCMD A  &hm_l LEFT_ALT S  &hm_shift_l LSHFT H  &hm_l LCTRL T  &kp G        &kp Y        &hm_r RCTRL N  &hm_shift_r RSHFT E  &hm_r RIGHT_ALT O  &hm_r RGUI I
 &kp C_VOL_DN  &kp Z         &kp X             &kp M                &kp C          &kp V        &kp K        &kp L          &kp COMMA            &kp DOT            &kp FSLH       &kp C_VOL_UP
-                                              &caps_word           &lt 4 ESCAPE   &lt 2 TAB    &lt 2 SPACE  &mo 1          &none
+                                              &bt BT_CLR           &lt 4 ESCAPE   &lt 2 TAB    &lt 2 SPACE  &mo 1          &bt BT_CLR
             >;
         };
 
